@@ -1,4 +1,0 @@
-language: csharp
-solution: WebApplication2.sln
-mono:
-	- latest
