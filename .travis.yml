@@ -1,4 +1,5 @@
 language: csharp
 solution: WebApplication2.sln
 script:
-  - xbuild /p:VbcToolExe=vbnc.exe WebApplication2.sln
+  - xbuild /p:Configuration=Release WebApplication2.sln
+  - mono ./packages/xunit.runners.*/tools/xunit.console.clr4.exe ./WebApplication2.Tests/bin/Release/WebApplication2.Tests.dll
