@@ -1,4 +1,4 @@
 language: csharp
 solution: WebApplication2.sln
-mono:
-  - latest
+script:
+  - xbuild /p:VbcToolExe=vbnc.exe WebApplication2.sln
