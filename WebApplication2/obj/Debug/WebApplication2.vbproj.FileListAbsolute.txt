@@ -48,7 +48,6 @@ c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\W
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
 c:\users\antonius.hilman\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
